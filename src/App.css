@@ -1,0 +1,46 @@
+.App {
+text-align: center;
+}
+.card{
+    width: 250px;
+    height: 450px;
+    margin: 20px;
+    background-color: antiquewhite;
+ 
+}
+
+.nameId{
+    margin: 20px;
+    display: flex;
+}
+.cardlayout{
+    display: flex;
+    flex-wrap: wrap;
+   
+   
+}
+
+
+.photo{
+    width: 80px;
+    border-radius: 50px;
+    margin-right:100px;
+    margin-top: -40px;
+    position: relative;
+    z-index:1;
+    
+}
+
+.container{
+    width: 900px;
+    margin: auto;
+}
+
+.wallPaper{
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+}
+h1{
+    padding: 50px;
+}
